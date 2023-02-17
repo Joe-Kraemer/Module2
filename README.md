@@ -2,4 +2,4 @@
 
 ## Personal Portfolio
 
-I made this project to show to potential employers in the future
+I made this project to showcase my future strengths and achivements
